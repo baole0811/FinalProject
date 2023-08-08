@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29aa6377-6e51-4503-b326-b548c1f067f1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QIEEzlshkuLc5GMDhNDSwhDI1q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "D:/NLU/ProjectFinal/BackendBookShop/BackendBookShop/BackendBookShop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "20789b65ab21a08f878118577eaff576",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BackendBookShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BackendBookShop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bookshop.BackendBookShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29aa6377-6e51-4503-b326-b548c1f067f1" name="Changes" comment="" />
+      <created>1685032590572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685032590572</updated>
+      <workItem from="1685032591664" duration="1396000" />
+      <workItem from="1685034164338" duration="7874000" />
+      <workItem from="1685097093705" duration="956000" />
+      <workItem from="1685106575682" duration="633000" />
+      <workItem from="1685108229325" duration="70000" />
+      <workItem from="1685117779395" duration="19734000" />
+      <workItem from="1685281609184" duration="230000" />
+      <workItem from="1685281855069" duration="47000" />
+      <workItem from="1687059518874" duration="9008000" />
+      <workItem from="1687114301570" duration="4055000" />
+      <workItem from="1687200983866" duration="7020000" />
+      <workItem from="1687213055839" duration="531000" />
+      <workItem from="1687233637562" duration="1244000" />
+      <workItem from="1687252448494" duration="582000" />
+      <workItem from="1687315581827" duration="6507000" />
+      <workItem from="1687344776863" duration="769000" />
+      <workItem from="1687393887736" duration="3553000" />
+      <workItem from="1687417409318" duration="613000" />
+      <workItem from="1687419031614" duration="4164000" />
+      <workItem from="1687834432423" duration="215000" />
+      <workItem from="1687849273093" duration="342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
